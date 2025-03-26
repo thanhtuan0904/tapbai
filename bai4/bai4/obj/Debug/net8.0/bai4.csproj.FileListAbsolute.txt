@@ -1,0 +1,15 @@
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.AssemblyInfoInputs.cache
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.AssemblyInfo.cs
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.csproj.CoreCompileInputs.cache
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.sourcelink.json
+D:\tapbai\bai4\bai4\bin\Debug\net8.0\bai4.exe
+D:\tapbai\bai4\bai4\bin\Debug\net8.0\bai4.deps.json
+D:\tapbai\bai4\bai4\bin\Debug\net8.0\bai4.runtimeconfig.json
+D:\tapbai\bai4\bai4\bin\Debug\net8.0\bai4.dll
+D:\tapbai\bai4\bai4\bin\Debug\net8.0\bai4.pdb
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.dll
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\refint\bai4.dll
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.pdb
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\bai4.genruntimeconfig.cache
+D:\tapbai\bai4\bai4\obj\Debug\net8.0\ref\bai4.dll
